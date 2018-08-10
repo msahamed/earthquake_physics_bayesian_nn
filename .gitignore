@@ -1,4 +1,5 @@
 logs/
+log
 graph/
 test/
 train/
@@ -15,3 +16,5 @@ __pycache__/
 *.png
 *.svg
 *.ai
+log/
+log/samples/20180801_054419/events.out.tfevents.1533102259.mini.local
